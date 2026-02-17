@@ -1,9 +1,11 @@
 species_id	species	genus	family	class	dna_length_mb	gc_content	mutation_rate	conserved_genes	transposon_pct	mitochondrial_similarity	snp_density	divergence_mya	evolutionary_clade	environmental_pressure_index	effective_population_size
+
 205	Fish_Species_30	Fish_Genus_4	Fish_Family_2	Fish	1791	38.33	2.805	16320	37.49	70.45	1.16	499	Fish	0.75	90681
 159	Reptile_Species_29	Reptile_Genus_2	Reptile_Family_8	Reptile	2189	45.92	3.074	16194	41.58	72.83	1.26	499	Reptile	0.42	129823
 205	Fish_Species_30	Fish_Genus_4	Fish_Family_2	Fish	1791	38.83	2.861	16320	37.99	70.45	1.32	499	Fish	0.62	90728
 205	Fish_Species_30	Fish_Genus_4	Fish_Family_2	Fish	1791	38.69	3.002	16320	38.07	70.45	1.35	499	Fish	0.53	89922
 205	Fish_Species_30	Fish_Genus_4	Fish_Family_2	Fish	1791	38.69	3.026	16320	38.59	70.45	1.06	499	Fish	0.69	87898
+
 Above are the first 5 rows of data from the evolution dataset.
 
 Evolution is visible in this dataset through DNA differences between species. Mutation rate, SNP density, and transposons show how DNA changes over time.
